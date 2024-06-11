@@ -1,2 +1,4 @@
 # Grabify-Track-Finder
-grabify track id finder
+first, you have to install requests module in python.
+###pip install requests
+##python main.py
